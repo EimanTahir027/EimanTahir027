@@ -104,6 +104,7 @@
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="56" alt="n8n" />
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="56" alt="Streamlit" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="56" alt="Canva" />
+<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark"/>
 
 </div>
 
