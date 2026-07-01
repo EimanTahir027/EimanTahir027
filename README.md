@@ -43,58 +43,47 @@
   
 ---
 ## 🛠️ Tech Stack & Skills
-
 <div align="center">
 
-### 💻 Programming Languages (horizontal)
+## 💻 Programming Languages:
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" alt="Python" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="100" alt="C#" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="100" alt="Java" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="100" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="100" alt="C++" />
+<img src="https://skillicons.dev/icons?i=c,dart" width="160" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## 🌐 Frontend Development:
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="100" alt="React" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="400" />
+
+## ⚙️ Backend Development:
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="100" alt="Django" />
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="100" alt="GraphQL" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="560" />
+
+## 🤖 AI & Machine Learning:
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" width="320" />
+<img src="https://cdn.simpleicons.org/numpy/013243" width="80" alt="NumPy" />
+<img src="https://cdn.simpleicons.org/pandas/150458" width="80" alt="Pandas" />
+<img src="https://cdn.simpleicons.org/keras/D00000" width="80" alt="Keras" />
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="80" alt="OpenCV" />
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="80" alt="Jupyter" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="80" alt="OpenAI" />
 
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🗄️ Databases:
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="100" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" width="480" />
 
-### ⚙️ Backend Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-### 🤖 AI & Machine Learning
-[![numpy badge](https://img.shields.io/badge/NumPy-9E9E9E?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![pandas badge](https://img.shields.io/badge/Pandas-13004B?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+## 🔧 Tools & Technologies:
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="100" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="240" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="80" alt="n8n" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="80" alt="Streamlit" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="80" alt="Canva" />
 
 </div>
-
 
 ---
 
