@@ -86,12 +86,13 @@
 <img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="56" alt="Pandas" />
 <img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="LangGraph" />
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="50" alt="Jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="58"  alt="Jupyter" />
 <img src="https://cdn.simpleicons.org/keras/D00000" width="40" alt="Keras" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" alt="OpenAI" />
 <img src="https://cdn.simpleicons.org/langchain/white" width="40" alt="LangChain" />
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" alt="Hugging Face" />
 <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" alt="OpenCV" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
 
 
 ## 🗄️ Databases:
