@@ -2,7 +2,7 @@ name: Generate pacman contribution graph
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */24 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@v1.0.0
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: "EimanTahir027"
 
