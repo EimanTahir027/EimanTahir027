@@ -64,47 +64,47 @@
 ## 🛠️ Tech Stack & Skills
 <div align="center">
 
-## 💻 Programming Languages:
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" alt="Python" />
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" alt="C#" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="70" alt="Java" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
+### 💻 Programming Languages:
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" alt="C#" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
-<img src="https://skillicons.dev/icons?i=c,dart" width="112" />
+<img src="https://skillicons.dev/icons?i=c,dart" width="90" />
 
-## 🌐 Frontend Development:
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" alt="React" />
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="280" />
+### 🌐 Frontend Development:
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="200" />
 
-## ⚙️ Backend Development:
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="70" alt="Django" />
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="70" alt="GraphQL" />
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="392" />
+### ⚙️ Backend Development:
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="300" />
 
 ## 🤖 AI & Machine Learning:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" width="224" />
 <img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="56" alt="Pandas" />
-<img src="https://cdn.simpleicons.org/langgraph/white" width="56" alt="LangGraph" />
-<img src="https://cdn.simpleicons.org/keras/D00000" width="56" alt="Keras" />
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="56" alt="OpenCV" />
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="56" alt="Jupyter" />
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="56" alt="Hugging Face" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="56" alt="OpenAI" />
-<img src="https://cdn.simpleicons.org/langchain/white" width="56" alt="LangChain" />
-\
+<img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="LangGraph" />
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="50" alt="Jupyter" />
+<img src="https://cdn.simpleicons.org/keras/D00000" width="40" alt="Keras" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/langchain/white" width="40" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" alt="Hugging Face" />
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" alt="OpenCV" />
+
 
 ## 🗄️ Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" width="336" />
 
 ## 🔧 Tools & Technologies:
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="168" />
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="56" alt="n8n" />
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="56" alt="Streamlit" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="56" alt="Canva" />
-<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="50" alt="Canva" />
+<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" />
 
 </div>
 
