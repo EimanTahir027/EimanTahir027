@@ -130,7 +130,35 @@
 - **Focus:** LangGraph-powered AI solutions and advanced ML architectures
 - **Collaboration:** Open to impactful AI projects and startup scaling solutions
 
+
+
+
+
 ---
+###
+<h2 align="center">Profile View</h1>
+<div align="center">
+  <img src="https://count.getloli.com/@:eimantahir027?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+
+
+---
+###   Pacman contribution animation :
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+</div>
+
+> A dedicated developer focused on clean code and meaningful collaborations.
+
+###
+</div>
+
+----
 
 ## 📫 Let's Connect!
 
@@ -160,27 +188,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Eiman Tahir" />
  </a>
 
-
----
-###
-<h2 align="center">Profile View</h1>
-<div align="center">
-  <img src="https://count.getloli.com/@:eimantahir027?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-
-
----
-###   Pacman contribution animation :
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
-  </picture>
-</div>
-
-> A dedicated developer focused on clean code and meaningful collaborations.
-
-###
-</div>
