@@ -145,7 +145,7 @@
 
 
 ---
-###   Pacman contribution animation :
+###  📊 Pacman contribution animation :
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph-dark.svg" />
