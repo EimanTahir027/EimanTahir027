@@ -42,25 +42,7 @@
 - **Location:** Abbottabad, Pakistan
 
 ---
- ### 📊 GitHub Stats:
-<table>
-  <tr>
-    <td width="50%" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eimantahir027&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
-             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
-      <br/>
- <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=eimantahir027&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
-      <br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eimantahir027&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
-    </td>
-    <td width="50%" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
-    </td>
-  </tr>
-</table>
  
----
 ## 🛠️ Tech Stack & Skills
 <div align="center">
 
@@ -115,6 +97,25 @@
 
 
 
+---
+### 📊 GitHub Stats:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eimantahir027&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
+             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
+      <br/>
+ <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=eimantahir027&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
+      <br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eimantahir027&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
+ 
 ---
 
 ## 📈 Activity Graph
