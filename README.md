@@ -63,7 +63,7 @@
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="300" />
 
-## 🤖 AI & Machine Learning:
+### 🤖 AI & Machine Learning:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" width="224" />
 <img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="56" alt="Pandas" />
@@ -77,11 +77,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
 
 
-## 🗄️ Databases:
+### 🗄️ Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" width="336" />
 
-## 🔧 Tools & Technologies:
+### 🔧 Tools & Technologies:
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
 <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
