@@ -56,12 +56,12 @@
 
 ### 🌐 Frontend Development:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="200" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="300" />
 
 ### ⚙️ Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="300" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="400" />
 
 ### 🤖 AI & Machine Learning:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" width="224" />
@@ -78,8 +78,8 @@
 
 
 ### 🗄️ Databases:
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" width="336" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" width="400" />
 
 ### 🔧 Tools & Technologies:
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
