@@ -52,6 +52,8 @@
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+
 <img src="https://skillicons.dev/icons?i=c,dart" width="90" />
 
 ### 🌐 Frontend Development:
