@@ -27,7 +27,6 @@
 </div>
 
 ---
-
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
 
 > *"If you want to be the best, you have to work more than the rest."*
@@ -60,40 +59,17 @@ flowchart LR
     ASK --> ASK2[Agentic AI Solutions]
     ASK --> ASK3[Production AI Workflows]
 
-    style ME fill:#6C63FF,stroke:#333,stroke-width:2px,color:#fff
-    style CW fill:#2D9CDB,stroke:#333,color:#fff
-    style EX fill:#27AE60,stroke:#333,color:#fff
-    style COL fill:#F2994A,stroke:#333,color:#fff
-    style ASK fill:#EB5757,stroke:#333,color:#fff
+    style ME fill:#0B4C7C,stroke:#083656,stroke-width:2px,color:#fff
+    style CW fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style EX fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style COL fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style ASK fill:#2D9CDB,stroke:#1B6FA8,color:#fff
 ```
 
 </div>
 
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center">🎓</td>
-    <td><b>Education</b></td>
-    <td>Computer Science Graduate, COMSATS University Islamabad, Abbottabad Campus</td>
-  </tr>
-  <tr>
-    <td align="center">📍</td>
-    <td><b>Location</b></td>
-    <td>Islamabad, Pakistan</td>
-  </tr>
-</table>
-
-<div align="center">
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-2D9CDB?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![GenAI](https://img.shields.io/badge/Gen%20AI-27AE60?style=for-the-badge&logo=Google-Gemini&logoColor=white)
-![DataScience](https://img.shields.io/badge/Data%20Science-F2994A?style=for-the-badge&logo=Pandas&logoColor=white)
-
-</div>
-
 ---
+
 
 
 ## 🛠️ Tech Stack & Skills
