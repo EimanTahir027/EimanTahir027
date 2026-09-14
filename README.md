@@ -28,12 +28,6 @@
 
 ---
 
-              
-
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
-
-> *"If you want to be the best, you have to work more than the rest."*
-
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
 
 > *"If you want to be the best, you have to work more than the rest."*
@@ -41,8 +35,9 @@
 <div align="center">
 
 ```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 25, "rankSpacing": 55}}}%%
 flowchart LR
-    ME(("🧑‍💻 SP-XD"))
+    ME(("🧑‍💻 EIMAN TAHIR "))
 
     ME --> CW["🚀 Currently Working On"]
     CW --> CW1[Artificial Intelligence]
@@ -99,32 +94,6 @@ flowchart LR
 </div>
 
 ---
-
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center">🎓</td>
-    <td><b>Education</b></td>
-    <td>Computer Science Graduate, COMSATS University Islamabad, Abbottabad Campus</td>
-  </tr>
-  <tr>
-    <td align="center">📍</td>
-    <td><b>Location</b></td>
-    <td>Islamabad, Pakistan</td>
-  </tr>
-</table>
-
-<div align="center">
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-2D9CDB?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![GenAI](https://img.shields.io/badge/Gen%20AI-27AE60?style=for-the-badge&logo=Google-Gemini&logoColor=white)
-![DataScience](https://img.shields.io/badge/Data%20Science-F2994A?style=for-the-badge&logo=Pandas&logoColor=white)
-
-</div>
 
 ---
 ## 🛠️ Tech Stack & Skills
