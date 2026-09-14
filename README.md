@@ -92,9 +92,6 @@ flowchart LR
 ![DataScience](https://img.shields.io/badge/Data%20Science-F2994A?style=for-the-badge&logo=Pandas&logoColor=white)
 
 </div>
-
----
-
 ---
 ## 🛠️ Tech Stack & Skills
 <div align="center">
