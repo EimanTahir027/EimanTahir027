@@ -30,32 +30,103 @@
 
               
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
 
 > *"If you want to be the best, you have to work more than the rest."*
 
-- **Currently Working On:**
-     - Artificial Intelligence
-     - Machine Learning
-     - Gen AI
-     - Data Science </br> 
-- **Expert In:**
-     - AI & ML Engineering
-     - Production-ready AI workflows
-     - Intelligent automation systems   </br> 
-- **Looking to Collaborate:**
-     - AI-powered applications,
-     -  full-stack platforms,
-     -  and automation systems   </br> 
-- **Ask Me About:**
-     - AI/ML/LLM engineering
-     - Agentic AI solutions
-     - Production AI workflows </br> 
-- **Education:** Computer Science Graduate from COMSATS University  Islamabad ,Abbottabad Campus  </br> 
-- **Location:** Islamabad, Pakistan
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
+
+> *"If you want to be the best, you have to work more than the rest."*
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    ME(("🧑‍💻 SP-XD"))
+
+    ME --> CW["🚀 Currently Working On"]
+    CW --> CW1[Artificial Intelligence]
+    CW --> CW2[Machine Learning]
+    CW --> CW3[Gen AI]
+    CW --> CW4[Data Science]
+
+    ME --> EX["🏆 Expert In"]
+    EX --> EX1[AI & ML Engineering]
+    EX --> EX2[Production-ready AI Workflows]
+    EX --> EX3[Intelligent Automation Systems]
+
+    ME --> COL["🤝 Looking to Collaborate"]
+    COL --> COL1[AI-powered Applications]
+    COL --> COL2[Full-stack Platforms]
+    COL --> COL3[Automation Systems]
+
+    ME --> ASK["💬 Ask Me About"]
+    ASK --> ASK1[AI/ML/LLM Engineering]
+    ASK --> ASK2[Agentic AI Solutions]
+    ASK --> ASK3[Production AI Workflows]
+
+    style ME fill:#6C63FF,stroke:#333,stroke-width:2px,color:#fff
+    style CW fill:#2D9CDB,stroke:#333,color:#fff
+    style EX fill:#27AE60,stroke:#333,color:#fff
+    style COL fill:#F2994A,stroke:#333,color:#fff
+    style ASK fill:#EB5757,stroke:#333,color:#fff
+```
+
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>Education</b></td>
+    <td>Computer Science Graduate, COMSATS University Islamabad, Abbottabad Campus</td>
+  </tr>
+  <tr>
+    <td align="center">📍</td>
+    <td><b>Location</b></td>
+    <td>Islamabad, Pakistan</td>
+  </tr>
+</table>
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-2D9CDB?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![GenAI](https://img.shields.io/badge/Gen%20AI-27AE60?style=for-the-badge&logo=Google-Gemini&logoColor=white)
+![DataScience](https://img.shields.io/badge/Data%20Science-F2994A?style=for-the-badge&logo=Pandas&logoColor=white)
+
+</div>
 
 ---
- 
+
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>Education</b></td>
+    <td>Computer Science Graduate, COMSATS University Islamabad, Abbottabad Campus</td>
+  </tr>
+  <tr>
+    <td align="center">📍</td>
+    <td><b>Location</b></td>
+    <td>Islamabad, Pakistan</td>
+  </tr>
+</table>
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-2D9CDB?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![GenAI](https://img.shields.io/badge/Gen%20AI-27AE60?style=for-the-badge&logo=Google-Gemini&logoColor=white)
+![DataScience](https://img.shields.io/badge/Data%20Science-F2994A?style=for-the-badge&logo=Pandas&logoColor=white)
+
+</div>
+
+---
 ## 🛠️ Tech Stack & Skills
 <div align="center">
 
