@@ -34,12 +34,25 @@
 
 > *"If you want to be the best, you have to work more than the rest."*
 
-- **Currently Working On:** AI ML and Gen AI </br> 
-- **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
-- **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems   </br> 
-- **Ask Me About:** AI/LLM engineering, agentic AI solutions, production AI workflows </br> 
-- **Education:** 8TH Semester  CS student at COMSATS University  Islamabad ,Abbottabad Campus   </br> 
-- **Location:** Abbottabad, Pakistan
+- **Currently Working On:**
+     - Artificial Intelligence
+     - Machine Learning
+     - Gen AI
+     - Data Science </br> 
+- **Expert In:**
+     - AI & ML Engineering
+     - Production-ready AI workflows
+     - Intelligent automation systems   </br> 
+- **Looking to Collaborate:**
+     - AI-powered applications,
+     -  full-stack platforms,
+     -  and automation systems   </br> 
+- **Ask Me About:**
+     - AI/ML/LLM engineering
+     - Agentic AI solutions
+     - Production AI workflows </br> 
+- **Education:** Computer Science Graduate from COMSATS University  Islamabad ,Abbottabad Campus  </br> 
+- **Location:** Islamabad, Pakistan
 
 ---
  
